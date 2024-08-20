@@ -2,19 +2,16 @@
 
 ###
 
-<br clear="both">
+<p align="center">Ola! 👋<br>
+Meu nome é Giovanni, sou formado em Ciência da Computação, tenho 22 anos e atuo como Software Developer a 3 anos.<br>
+</p>
 
-<p align="center">Ola! 😁 Meu nome é Giovanni, formado em Ciência da Computação, tenho 22 anos e sou Software Developer a 3 anos.</p>
 
 ###
-
-<br clear="both">
 
 <h1 align="center">Techs</h1>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -38,13 +35,11 @@
 
 ###
 
-<br clear="both">
 
 <h1 align="center">Stats</h1>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giovannialopes&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Giovanni%20Lopes" height="150" alt="stats graph" /> <br>
@@ -54,13 +49,10 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center">Social Media</h1>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <a href="(https://www.linkedin.com/in/giovanni-alopes/" target="_blank">
@@ -71,6 +63,9 @@
   </a>
   <a href="334918062501396501" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="giovannialopes.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
