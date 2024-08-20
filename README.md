@@ -55,7 +55,7 @@ Meu nome é Giovanni, sou formado em Ciência da Computação, tenho 22 anos e a
 
 
 <div align="center">
-  <a href="(https://www.linkedin.com/in/giovanni-alopes/" target="_blank">
+  <a href="https://www.linkedin.com/in/giovanni-alopes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gio_lopezs/" target="_blank">
