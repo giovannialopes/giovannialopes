@@ -3,7 +3,7 @@
 ###
 
 <p align="center">Olá! 👋<br>
-Meu nome é Giovanni, sou formado em Ciência da Computação, tenho 22 anos e atuo como Software Developer à 3 anos.<br>
+Meu nome é Giovanni, sou formado em Ciência da Computação, tenho 22 anos e atuo como Software Developer há 3 anos.<br>
 </p>
 
 
